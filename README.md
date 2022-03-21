@@ -1,4 +1,5 @@
-#Ring Camera Bulk Video Downloader
+##Ring Camera Bulk Video Downloader
+
 **Why?**
 
 Ring Doorbell/Floodlight only allows you to download 20 recorded events at a time. 
