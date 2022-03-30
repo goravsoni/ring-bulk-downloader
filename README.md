@@ -11,9 +11,8 @@ they are destroyed in 60 days. Additionally, sharing footage to authorities can 
 
 I was able to download over 3500 videos in HQ (LQ is available aswell) surrounding an event that lasted a week on the Ring Floodcamera.
 The total size of my files came out to 42 GB. This is still not ideal. I hope Ring builds a time lapse feature that can round up videos from a week and 
-show a 3 minute time lapse.  It took me about 2 hours to get everything downloaded and backed up to Google Drive. Thanks to Google drive desktop :')
-¯\_( ͡❛ ͜ʖ ͡❛)_/¯
-
+show a 3 minute time lapse.  It took me about 2 hours to get everything downloaded and backed up to Google Drive. Thanks to Google drive desktop 
+               ¯\_( ͡ಠ ͜ʖ ͡ಠ)_/¯
 
 
 
